@@ -27,7 +27,6 @@ To use the Newspaper App Interface, follow these steps:
 
 1.  Clone the repository to your local machine.
 2.  Open the project in an IDE that supports Maven, such as Eclipse or IntelliJ IDEA.
-3.  Run the `src/main/java/com/newspaper/Database/Database.java` file to create the database.
-4.  Run the `src/main/java/com/newspaper/Main.java` file to start the application.
+3.  Run the `src/project/vaseis/Main.java` file to start the application.
 
 The application will open in a new window. You can then use the various features of the application to manage news articles and journalists.
